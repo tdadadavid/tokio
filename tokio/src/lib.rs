@@ -45,7 +45,6 @@
 //! [fs]: crate::fs
 //! [process]: crate::process
 //! [signal]: crate::signal
-//! [fs]: crate::fs
 //! [runtime]: crate::runtime
 //! [website]: https://tokio.rs/tokio/tutorial
 //!
